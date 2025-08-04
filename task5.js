@@ -1,4 +1,4 @@
-var student= { name: "mewo" , roll: 96 ,department: "cse"  };cle
+var student= { name: "mewo" , roll: 96 ,department: "cse"  };
 
 var email=student.name + student.roll + "." + student.department + "@ph.ac.bd";
 
